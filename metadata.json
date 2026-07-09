@@ -1,0 +1,6 @@
+{
+  "name": "Nanobana Studio",
+  "description": "Generate high-fidelity, highly consistent character portraits using Nanobana's advanced model stabilization and interactive 3D face-scan profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
